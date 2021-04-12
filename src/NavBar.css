@@ -1,0 +1,28 @@
+.mr-auto{
+    display: inline-flex;
+    width: 2000 px;
+    margin: 0 auto;
+    
+}
+.home{
+font-size: 2rem;
+margin-right: 2rem;
+
+    
+}
+.productos{
+font-size: 2rem;
+margin-right: 2rem;
+}
+.PersonalDeSalud{
+font-size: 2rem;
+margin-right: 2rem;
+}
+.sesiones{
+font-size: 2rem;
+margin-right: 2rem;
+}
+.profesional{
+font-size: 2rem;
+margin-right: 2rem;
+}
