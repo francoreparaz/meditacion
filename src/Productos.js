@@ -52,6 +52,14 @@ export const Productos = () => {
         precio: "500",
       },
       {
+        nombre: "lskdopaskdopsd",
+        precio: "500",
+      }, 
+      {
+        nombre: "auto",
+        precio: "500",
+      }, 
+      {
         nombre: "perfume",
         precio: "500",
       }, 
